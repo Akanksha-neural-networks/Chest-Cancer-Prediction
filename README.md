@@ -67,3 +67,5 @@ Accuracy graphs depict the number of correct predictions, Loss graphs contain th
 # Future Readiness
 
 We collected various data sets of cancer cells from various platforms providing open-source datasets and developed a detailed list of the features that the system software would contain. We did not need to clean the datasets as we didn’t have any missing values in our datasets and then we loaded them onto the platform we are working on. In machine learning, an epoch refers to a complete iteration through a training dataset during the training process of a neural network so we used the epoch method to increase the accuracy of the software.For Future reference we can also build a software through Gradio or Flask to further develop the Model into a Web Application or an Interface.
+# Youtube Link
+https://youtu.be/VOHZYMVQ9io
